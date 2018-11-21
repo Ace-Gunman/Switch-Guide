@@ -1,22 +1,3 @@
-<!-- HTML Codes by Quackit.com -->
-<!DOCTYPE html>
-<title>Text Example</title>
-<style>
-div.container {
-background-color: #ffffff;
-}
-div.container p {
-font-family: Arial;
-font-size: 14px;
-font-style: normal;
-font-weight: normal;
-text-decoration: none;
-text-transform: none;
-color: #000000;
-background-color: #ffffff;
-}
-</style>
-
-<div class="container">
-<p>u wot m8?</p>
-</div>
+Hello
+Herro
+Wyy am i wtriyuithjtht thuis
